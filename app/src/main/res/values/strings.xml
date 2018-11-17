@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestOne</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_map_fragment">Hello map fragment</string>
+    <string name="hello_task_fragment">Hello task fragment</string>
+    <string name="hello_ar_fragment">Hello ar fragment</string>
+    <string name="hello_message_fragment">Hello message fragment</string>
+    <string name="hello_me_fragment">Hello me fragment</string>
+
+</resources>
